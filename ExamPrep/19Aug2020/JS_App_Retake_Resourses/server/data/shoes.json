@@ -1,0 +1,16 @@
+{
+   "shoe1": {
+        "name": "adidas",
+        "price": 50,
+        "imageUrl": "public/sneakers.png",
+        "creator": "user1",
+        "bought": 0
+    },
+    "shoe2": {
+        "name": "nike",
+        "price": 54,
+        "imageUrl": "public/shoes2.jpg",
+        "creator": "user2",
+        "bought": 0
+    }
+}
